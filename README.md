@@ -1,1 +1,3 @@
 # Model-Server-Project
+
+This project is a Python-based Model Server designed to predict COVID-19-related deaths using PyTorch and machine learning techniques. The server employs an LRU cache for efficient data handling and multithreading for real-time processing. It also features gRPC communication for secure and seamless interactions between the server and client. This project demonstrates proficiency in Python, machine learning, error management, and practical experience with data caching and efficient communication protocols, making it a valuable addition to the field of data science and data analytics.
